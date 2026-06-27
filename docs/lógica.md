@@ -1,10 +1,10 @@
-#lógica del negocio
+# lógica del negocio
 ## descripción
 ## Un espacio cálido y relajado creado para los amantes del buen café
 
-##flujo principal
+## flujo principal
 
-#seudocodigo
+# seudocodigo
 si variable "identificador de Bebida" = 0, esconder Sprite 4
 si variable "identificador de Bebida" = 1, mostrar Sprite 4, cambiar a disfraz "Espreso"
 si variable "identificador de Bebida" = 2, mostrar Sprite 4, cambiar a disfraz "Latte"
